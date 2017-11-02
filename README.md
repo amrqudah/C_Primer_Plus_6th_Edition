@@ -1,5 +1,5 @@
 # C_Primer_Plus_6th_Edition
-Soultion Manual for C Primer Plus (Developer's Library) 6th Edition
+<div style="text-decoration:strong;">Soultion Manual for C Primer Plus (Developer's Library) 6th Edition</div>
 
 Publisher: Addison-Wesley Professional; 6 edition (December 6, 2013)
 
